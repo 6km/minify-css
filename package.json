@@ -1,7 +1,7 @@
 {
     "name": "minify-css",
     "version": "1.0.0",
-    "description": "🤩Minify your css files easily.",
+    "description": "🤩 Minify your css files easily.",
     "main": "index.js",
     "bin": {
         "minify-css": "bin/minify.js"
