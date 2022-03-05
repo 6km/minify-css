@@ -5,7 +5,7 @@ MinifyCSS is a fast and light-weight tool that minifies your css files easily.
 Run the following command to install MinifyCSS globally:
 
 ```
-$ npm install minify-css -g
+$ npm install @e3sar33/minify-css -g
 ```
 
 ## Usage

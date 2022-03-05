@@ -1,5 +1,5 @@
 {
-    "name": "minify-css",
+    "name": "@e3sar33/minify-css",
     "version": "1.0.0",
     "description": "🤩 Minify your css files easily.",
     "main": "index.js",
@@ -27,5 +27,9 @@
         "postcss-minify-gradients": "^5.1.0",
         "postcss-normalize-url": "^5.1.0",
         "shelljs": "^0.8.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/6km/minify-css"
     }
 }
