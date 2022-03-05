@@ -1,6 +1,6 @@
 {
     "name": "@e3sar33/minify-css",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "🤩 Minify your css files easily.",
     "main": "index.js",
     "bin": {
