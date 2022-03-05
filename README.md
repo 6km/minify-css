@@ -1,6 +1,4 @@
-# MinifyCSS
-
-🤩 Minify your css files easily.
+MinifyCSS is a fast and light-weight tool that minifies your css files easily.
 
 ## Installation
 
