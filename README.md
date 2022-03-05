@@ -10,5 +10,5 @@ $ npm install @e3sar33/minify-css -g
 
 ## Usage
 ```
-minify-css /path/to/index.css
+$ minify-css /path/to/index.css
 ```
