@@ -8,3 +8,7 @@ Run the following command to install MinifyCSS globally:
 $ npm install minify-css -g
 ```
 
+## Usage
+```
+minify-css /path/to/index.css
+```
