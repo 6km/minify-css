@@ -2,7 +2,7 @@
 
 🤩 Minify your css files easily.
 
-> ## Installation
+## Installation
 
 Run the following command to install MinifyCSS globally:
 
