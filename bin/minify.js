@@ -1,9 +1,7 @@
 #! /usr/bin/env node
-var shell = require('shelljs');
 var postcss = require('postcss');
 var cssnano = require('cssnano');
 var autoprefixer = require('autoprefixer');
-var litePreset = require('cssnano-preset-lite');
 var fs = require('fs');
 var chalk = require('chalk');
 var path = require('path');

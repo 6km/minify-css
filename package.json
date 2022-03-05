@@ -25,8 +25,7 @@
         "postcss": "^8.4.7",
         "postcss-colormin": "^5.3.0",
         "postcss-minify-gradients": "^5.1.0",
-        "postcss-normalize-url": "^5.1.0",
-        "shelljs": "^0.8.5"
+        "postcss-normalize-url": "^5.1.0"
     },
     "repository": {
         "type": "git",
